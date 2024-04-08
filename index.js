@@ -2,7 +2,7 @@ const express = require("express");
 const mongoose = require("mongoose");
 const authReouter = require("./routes/auth");
 
-const PORT = 22;
+const PORT = 2030;
 
 const DBC = "mongodb+srv://jcpofficialjo:mg9kxsNz64P1RlH4@cluster0.ugf8uor.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
 
